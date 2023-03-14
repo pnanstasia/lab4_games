@@ -96,7 +96,7 @@ while not FAILURE:
                         print("Вітаю! Ти виграв!!!")
                         FAILURE = True
                 else:
-                    print("Ти програв, тебе заразив монст")
+                    print("Ти програв, тебе заразив монстр")
                     FAILURE = True
             else:
                 print("У наплічнику немає " + subject)
